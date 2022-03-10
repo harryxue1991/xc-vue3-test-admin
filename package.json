@@ -127,10 +127,5 @@
       "prettier --write"
     ]
   },
-  "target": "web",
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
-  }
+  "target": "web"
 }
